@@ -10,6 +10,8 @@ Remember to change the filename on the sketch.js file!
 
 Basically what this does is... nevermind. Check example.rif (numbers are "red, green, blue", or if it is just one number, black to white. (0 to 255 for both ways)).
 
+Test it by using `git clone https://github.com/realguystuff/RawFileImage` and running `index.html`!
+
 ## What is this?
 ### For Users:
 The Raw Image File is a unique file type that offers a straightforward and accessible way to work with images. Unlike other image file formats, it is not encoded into hexadecimal bits and remains human-readable. This means that you can open and view the contents of the file using a text editor, without the need for specialized software.
