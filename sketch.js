@@ -1,4 +1,4 @@
-const filePath = "test.txt"; // path to your file!
+const filePath = "example.rif"; // path to your file!
 const dimensions = [445, 445]; // canvas resolution, x and y respectively
 
 
